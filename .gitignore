@@ -1,0 +1,4 @@
+data/*.csv
+!data/sample_telco.csv
+__pycache__/
+.ipynb_checkpoints/
